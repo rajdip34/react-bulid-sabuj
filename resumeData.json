@@ -1,0 +1,140 @@
+{
+  "main": {
+    "name":"Sabuj Majumder",
+    "occupation":"I'm a Interior designer ",
+    "description":" Make interior spaces functional, safe, and beautiful by determining space requirements and selecting decorative items, such as colors, lighting, and materials. They read blueprints and must be aware of building codes and inspection regulations, as well as universal accessibility standards.",
+    "image":"profilepic.jpg",
+    "bio":"My philosophy is don’t worry about perfection, When you get an idea, take action. Just do it, execute quickly, and tweak later ",
+    "contactmessage":"HAVE A QUESTION WE HAVE ANSWERS !",
+    "email": "sabujmajumder92@gmail.com",
+    "phone": "+919064114945",
+    "address":{
+      "street":"Machlandapur",
+      "city":"Kolkata ,",
+      "state":"West Bangal",
+      "zip": "743289"
+    },
+    "website": "http://securityhub.cf",
+    "resumedownload":"/",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/golo.sen",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/sabujmajumder",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/rajdip34",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Interior Design using 3D Max, Autocad , Adobe Photoshop",
+    "education":[
+      
+      {
+        "school":"Rajballavpur High School",
+        "degree":"10+2",
+        "graduated":"March 2006",
+        "description":"Fundamentals"
+      }
+    ],
+    "Service":[
+      {
+        
+        "title":"Interior Design",
+       
+        "description":"Interior design is the art and science of enhancing the interior of a building to achieve a healthier and more aesthetically pleasing environment for the people using the space. An interior designer is someone who plans, researches, coordinates, and manages such projects"
+      },
+      {
+        
+        "title":"Exterior Design",
+        "description":"Exterior design is the process of designing the exterior of the building. This includes the facade, skin ,roof, and foundational elements. While exterior design can be just as creative and artistic as interior, a knowledge of structural engineering is necessary"
+      }
+    ],
+    "work":[
+      {
+        "company":"Rai Interior ",
+        "title":"Interior Designer",
+        "years":"March 2019 - Present",
+        "description":"Achieve a healthier and more aesthetically pleasing environment for the people using the space. An interior designer is someone who plans, researches, coordinates, and manages such projects"
+      }
+     
+    ],
+    "skills":[
+      
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"3D Max",
+        "level":"50%"
+      },
+      {
+        "name":"Adobe Maya",
+        "level":"90%"
+      },
+      {
+        "name":" Adobe Photoshop",
+        "level":"80%"
+      },
+      {
+        "name":"Autocad",
+        "level":"50%"
+      },
+      {
+        "name":"Interior Design",
+        "level":"65%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Goshpur work",
+        "category":"Interior Design and Exterior Design both",
+        "image":"canadian-wanderlust.jpg",
+        "url":"images/portfolio/p2.jpeg"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Let’s go invent tomorrow instead of worrying about what happened yesterday.",
+        "user":"Steve Jobs"
+      },
+      {
+        "text":"Technology is just a tool. In terms of getting the kids working together and motivating them, the teacher is the most important",
+        "user":"Bill Gates"
+      }
+    ]
+  }
+}
